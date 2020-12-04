@@ -19,7 +19,7 @@ var population = 8_000_000
 //str (string) for letters
 //int (integer) for whole numbers
 
-//Multi-line
+//Multi-line strings
 var str1 = """
 This goes
 over multiple
@@ -34,7 +34,7 @@ lines
 
 //Doubles
 var pi = 3.141
-// fractions creat a double instead of integers
+// fractions (decimal numbers) create a double instead of integers
 
 //booleans hold true or false
 var awesome = true
@@ -53,3 +53,7 @@ let album: String = "Reputation"
 let year: Int = 1989
 let height: Double = 1.78
 let taylorRocks: Bool = true
+var name: String
+name = "Mateus"
+
+var number: Double = 99
