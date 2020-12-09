@@ -115,3 +115,10 @@ default:
     print("You did great!")
 }
 
+//
+let value: Double = 90000000000000001
+
+let number = 465
+let isMultiple = number.isMultiple(of: 7)
+
+
